@@ -71,7 +71,7 @@ export default function Tempapp() {
   return (
     <div>
       <div className="container">
-        <p>ghffghcvbcvbn</p>
+    
         <div className="top-bar">
             <input type="text" className='cityInput' placeholder='search'/>
             <div className="search-icon" onClick={()=>{
